@@ -1,2 +1,2 @@
 # Big-data-analysis-and-applications
-## In class programming screenshots of the code, output and video will be posted here
+## In class programming screenshots of the code and output will be posted here
